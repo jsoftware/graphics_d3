@@ -1,5 +1,5 @@
 LABTITLE=: 'D3 - how to use with JHS'
-LABFOCUS=: 0	NB. _1 returns focus to lab
+LABDEPENDS=: 'graphics/d3'
 
 NB. =========================================================
 Lab Section Introduction
