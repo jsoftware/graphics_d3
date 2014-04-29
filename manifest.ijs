@@ -2,7 +2,7 @@ NB. d3 manifest
 
 CAPTION=: 'D3 (Data Driven Documents) for JHS'
 
-VERSION=: '0.0.2'
+VERSION=: '0.0.3'
 
 FILES=: 0 : 0
 d3.ijs
@@ -33,4 +33,4 @@ RELEASE=: 'j701 j801 j802'
 
 LABCATEGORY=: 'Graphics'
 
-PLATFORMS=: 'win linux darwin android'
+PLATFORMS=: ''
