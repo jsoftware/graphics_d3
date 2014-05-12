@@ -33,4 +33,4 @@ RELEASE=: 'j701 j801 j802'
 
 LABCATEGORY=: 'Graphics'
 
-PLATFORMS=: 'linux win darwin android'
+PLATFORMS=: ''
