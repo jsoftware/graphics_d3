@@ -2,7 +2,7 @@ NB. d3 manifest
 
 CAPTION=: 'D3 (Data Driven Documents) for JHS'
 
-VERSION=: '0.0.6'
+VERSION=: '0.0.7'
 
 FILES=: 0 : 0
 d3.ijs
@@ -29,7 +29,7 @@ D3.js (or "D3 for data-driven documents") is a free JavaScript library to displa
 D3 is described here: http://en.wikipedia.org/wiki/D3.js
 )
 
-RELEASE=: 'j701 j801 j802 j803 j804 j805'
+RELEASE=: 'j701 j801 j802 j803 j804 j805 j806'
 
 LABCATEGORY=: 'Graphics'
 
